@@ -4,7 +4,13 @@ ClientFlow is a modern client management and project tracking platform designed 
 
 ## 🔗 Live Preview
 
-**Preview Vedio:** [![ClientFlow Demo](https://github.com/renish-r/clientflow/blob/main/zenzerflow.webp)](https://www.instagram.com/reel/DYwvoj1KMju)
+## 🎥 Preview Video
+
+<p align="center">
+  <a href="https://www.instagram.com/reel/DYwvoj1KMju">
+    <img src="https://github.com/renish-r/clientflow/blob/main/zenzerflow.webp" alt="ClientFlow Demo" width="250">
+  </a>
+</p>
 
 ## 🚀 Features
 
