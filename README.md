@@ -2,16 +2,12 @@
 
 ClientFlow is a modern client management and project tracking platform designed for freelancers, agencies, and service-based businesses. It streamlines client onboarding, project management, communication, workflow tracking, and automated email communication through an intuitive and responsive interface.
 
-## 🔗 Live Preview
-
 ## 🎥 Preview Video
 
-<p align="center">
-  <a href="https://www.instagram.com/reel/DYwvoj1KMju">
-    <img src="https://github.com/renish-r/clientflow/blob/main/zenzerflow.webp" alt="ClientFlow Demo" width="250">
-  </a>
-</p>
-
+<a href="https://www.instagram.com/reel/DYwvoj1KMju">
+  <img src="https://github.com/renish-r/clientflow/blob/main/zenzerflow.webp" alt="ClientFlow Demo" width="250">
+</a>
+  
 ## 🚀 Features
 
 * 👥 **Client Management**
